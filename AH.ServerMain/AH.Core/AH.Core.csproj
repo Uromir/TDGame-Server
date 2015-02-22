@@ -65,9 +65,21 @@
       <Project>{9abf937c-630f-4f27-b17d-fe6b76e55bed}</Project>
       <Name>AH.Hero</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AH.Mob\AH.Mob.csproj">
+      <Project>{0319aac6-9754-46ad-ac4b-3fe0479f8a71}</Project>
+      <Name>AH.Mob</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AH.Object\AH.Object.csproj">
       <Project>{896301e1-6317-47c9-8318-54b0c1887b5c}</Project>
       <Name>AH.Object</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AH.TowerManager\AH.TowerManager.csproj">
+      <Project>{51bd6703-e6ce-4c32-b710-dbd699f32bd1}</Project>
+      <Name>AH.TowerManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tower\AH.Tower.csproj">
+      <Project>{edb1e7fd-6621-4034-9959-01c5e5665e32}</Project>
+      <Name>AH.Tower</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

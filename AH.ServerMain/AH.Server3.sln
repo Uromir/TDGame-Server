@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.Tower", "Tower\AH.Tower.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.HeroManager", "AH.HeroManager\AH.HeroManager.csproj", "{BDF513DC-6C48-49C7-B5B0-F522322F3059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.TowerManager", "AH.TowerManager\AH.TowerManager.csproj", "{51BD6703-E6CE-4C32-B710-DBD699F32BD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +136,16 @@ Global
 		{BDF513DC-6C48-49C7-B5B0-F522322F3059}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{BDF513DC-6C48-49C7-B5B0-F522322F3059}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{BDF513DC-6C48-49C7-B5B0-F522322F3059}.Release|x86.ActiveCfg = Release|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

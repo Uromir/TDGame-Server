@@ -6,3 +6,11 @@ C:\Users\Юрий\Desktop\AH.ServerMain\Tower\obj\Debug\AH.Tower.csprojResolveAs
 C:\Users\Юрий\Desktop\AH.ServerMain\Tower\obj\Debug\Tower.dll
 C:\Users\Юрий\Desktop\AH.ServerMain\Tower\obj\Debug\Tower.pdb
 C:\Users\Юрий\Desktop\AH.ServerMain\Tower\bin\Debug\SharpDX.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\Tower.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\Tower.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\AH.Object.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\SharpDX.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\AH.Tower.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\Tower.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\Tower.pdb

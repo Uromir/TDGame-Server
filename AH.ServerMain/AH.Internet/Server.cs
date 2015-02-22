@@ -154,5 +154,17 @@ namespace AH.Internet
                 return 0;
             return 1;
         }
+
+        // установить новую башню
+        public static int CreateNewTower(Vector3 TowerPosition, int TowerType, Session MySession)
+        {
+            int Id = AdressatManagerThisServer.SearchIdInSession(MySession);
+            // если герой был найден и найдено его Id присваиваем направление иначе возвращаем признак неудачи
+            if (Id != -1)
+                MainCoreServer.CreateNewTower(TowerPosition, TowerType);
+            else
+                return 0;
+            return 1;
+        }
     }
 }

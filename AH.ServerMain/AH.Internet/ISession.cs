@@ -33,6 +33,10 @@ namespace AH.Internet
         [OperationContract(IsOneWay = true)]
         // изменить направление движения
         void SetDirection(Vector3 NewDirection);
+
+        [OperationContract(IsOneWay = true)]
+        // создать новую башню
+        void CreateNewTower(Vector3 NewDirection, int TowerType);
     }
 
     [ServiceContract]

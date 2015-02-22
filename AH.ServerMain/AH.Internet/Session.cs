@@ -49,6 +49,12 @@ namespace AH.Internet
             Server.SetDirectionPlayer(NewDirection, this);
         }
 
+        // создать новую башню
+        public void CreateNewTower(Vector3 NewDirection, int TowerType) 
+        {
+            Server.CreateNewTower(NewDirection, TowerType, this);
+        }
+
         public ISessionCallback Callback
         {
             get
