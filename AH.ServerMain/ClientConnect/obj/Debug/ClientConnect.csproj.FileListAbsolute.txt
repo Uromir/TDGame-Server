@@ -1,0 +1,4 @@
+D:\DropBox\Server\AH.Server3\ClientConnect\bin\Debug\ClientConnect.dll
+D:\DropBox\Server\AH.Server3\ClientConnect\bin\Debug\ClientConnect.pdb
+D:\DropBox\Server\AH.Server3\ClientConnect\obj\Debug\ClientConnect.dll
+D:\DropBox\Server\AH.Server3\ClientConnect\obj\Debug\ClientConnect.pdb

@@ -1,0 +1,6 @@
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\bin\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\AH.ServerMain\AH.Object\bin\Debug\SharpDX.dll

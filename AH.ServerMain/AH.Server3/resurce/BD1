@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccountBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AccountBase>
+    <Login>admin</Login>
+    <Password>admin</Password>
+	<Type>admin</Type>
+  </AccountBase>
+  <AccountBase>
+    <Login>uromir</Login>
+    <Password>uromir</Password>
+	<Type>admin</Type>
+  </AccountBase>
+  <AccountBase>
+    <Login>sidan</Login>
+    <Password>admin</Password>
+	<Type>admin</Type>
+  </AccountBase>
+</ArrayOfAccountBase>
