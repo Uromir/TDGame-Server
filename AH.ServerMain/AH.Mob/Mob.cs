@@ -11,11 +11,17 @@ namespace AH.Mob
     {
         public double HP { set; get; }
         public int Id { set; get; }
+        public double ActualDamage { set; get; }
 
         public Mob(int Id)
         {
             this.HP = 100;
             this.Id = Id; // изменить метод присваивания Id
+        }
+
+        public void CauseDamage(double Damage)
+        {
+            ActualDamage += Damage;
         }
     }
 }
