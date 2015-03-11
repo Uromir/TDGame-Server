@@ -12,6 +12,7 @@ namespace AH.Core
         AH.HeroManager.HeroManager MainHeroManager;
         AH.TowerManager.TowerManager MainTowerManager;
         AH.MobManager.MobManager MainMobManager;
+        AH.BulletManager.BulletManager MainBulletManager;
 
         public int a;
 
@@ -20,6 +21,7 @@ namespace AH.Core
             this.MainHeroManager = new AH.HeroManager.HeroManager();
             this.MainTowerManager = new AH.TowerManager.TowerManager();
             this.MainMobManager = new AH.MobManager.MobManager();
+            this.MainBulletManager = new BulletManager.BulletManager();
         }
 
         // устанавливаем героя направление движения
@@ -34,11 +36,14 @@ namespace AH.Core
             this.MainTowerManager.CreateNewTower(TowerPosition, TowerType);
         }
 
+        // функция обновляющая игровую логику и ведущая все вычисления
         public void Update(System.Object StateInfo)
         {
             AutoResetEvent autoEvent = (AutoResetEvent)StateInfo;
 
-            MainHeroManager.MoveAllHeroes();
+            MainHeroManager.Update();
+            MainMobManager.Update();
+            MainBulletManager.Update();
         }
     }
 }

@@ -10,5 +10,12 @@ namespace AH.Mob
     public class Mob : DinamicObject
     {
         public double HP { set; get; }
+        public int Id { set; get; }
+
+        public Mob(int Id)
+        {
+            this.HP = 100;
+            this.Id = Id; // изменить метод присваивания Id
+        }
     }
 }

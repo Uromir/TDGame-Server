@@ -57,6 +57,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AH.BulletManager\AH.BulletManager.csproj">
+      <Project>{e929dd41-1838-4c1e-a38b-2a297a2dadc4}</Project>
+      <Name>AH.BulletManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AH.Bullet\AH.Bullet.csproj">
+      <Project>{3466602a-4ff2-45d1-8c0e-83cca51430bd}</Project>
+      <Name>AH.Bullet</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AH.HeroManager\AH.HeroManager.csproj">
       <Project>{bdf513dc-6c48-49c7-b5b0-f522322f3059}</Project>
       <Name>AH.HeroManager</Name>

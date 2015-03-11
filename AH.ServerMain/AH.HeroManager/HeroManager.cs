@@ -35,5 +35,10 @@ namespace AH.HeroManager
                 AllHero[i].Move();
             }
         }
+
+        public void Update()
+        {
+            MoveAllHeroes();
+        }
     }
 }

@@ -141,3 +141,7 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Mob.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.MobManager.pdb
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Mob.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.BulletManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Bullet.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.BulletManager.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Bullet.pdb
