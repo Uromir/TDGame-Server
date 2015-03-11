@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.HeroManager", "AH.HeroMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.TowerManager", "AH.TowerManager\AH.TowerManager.csproj", "{51BD6703-E6CE-4C32-B710-DBD699F32BD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH.MobManager", "AH.MobManager\AH.MobManager.csproj", "{534C8D4C-3C10-4A73-BBC7-9781E40F7607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -146,6 +148,16 @@ Global
 		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{51BD6703-E6CE-4C32-B710-DBD699F32BD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{534C8D4C-3C10-4A73-BBC7-9781E40F7607}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

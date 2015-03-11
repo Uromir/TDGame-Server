@@ -137,3 +137,7 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\zh-CN\Npgsql.resources.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\obj\x86\Debug\AH.Server3.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.MobManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Mob.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.MobManager.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Server3\bin\Debug\AH.Mob.pdb

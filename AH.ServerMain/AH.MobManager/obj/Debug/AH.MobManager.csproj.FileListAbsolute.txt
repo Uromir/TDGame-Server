@@ -1,0 +1,10 @@
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.MobManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.MobManager.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.Mob.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.Object.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\SharpDX.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.Mob.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\obj\Debug\AH.MobManager.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\obj\Debug\AH.MobManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.MobManager\obj\Debug\AH.MobManager.pdb

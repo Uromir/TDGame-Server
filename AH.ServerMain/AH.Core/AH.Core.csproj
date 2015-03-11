@@ -65,6 +65,10 @@
       <Project>{9abf937c-630f-4f27-b17d-fe6b76e55bed}</Project>
       <Name>AH.Hero</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AH.MobManager\AH.MobManager.csproj">
+      <Project>{534c8d4c-3c10-4a73-bbc7-9781e40f7607}</Project>
+      <Name>AH.MobManager</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AH.Mob\AH.Mob.csproj">
       <Project>{0319aac6-9754-46ad-ac4b-3fe0479f8a71}</Project>
       <Name>AH.Mob</Name>

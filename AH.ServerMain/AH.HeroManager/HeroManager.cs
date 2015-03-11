@@ -26,5 +26,14 @@ namespace AH.HeroManager
             }
             return null;
         }
+
+        // Приказать всем героям двигаться
+        public void MoveAllHeroes()
+        {
+            for (int i = 0; i < AllHero.Count(); i++ )
+            {
+                AllHero[i].Move();
+            }
+        }
     }
 }

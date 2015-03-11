@@ -60,3 +60,5 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\AH
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\AH.TowerManager.pdb
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\Tower.pdb
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\AH.MobManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Core\bin\Debug\AH.MobManager.pdb

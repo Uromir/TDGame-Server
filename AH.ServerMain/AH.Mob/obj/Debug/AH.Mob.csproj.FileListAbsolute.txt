@@ -6,3 +6,11 @@ C:\Users\Юрий\Desktop\AH.ServerMain\AH.Mob\bin\Debug\AH.Object.pdb
 C:\Users\Юрий\Desktop\AH.ServerMain\AH.Mob\obj\Debug\AH.Mob.dll
 C:\Users\Юрий\Desktop\AH.ServerMain\AH.Mob\obj\Debug\AH.Mob.pdb
 C:\Users\Юрий\Desktop\AH.ServerMain\AH.Mob\bin\Debug\SharpDX.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\bin\Debug\AH.Mob.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\bin\Debug\AH.Mob.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\bin\Debug\AH.Object.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\bin\Debug\SharpDX.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\obj\Debug\AH.Mob.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\obj\Debug\AH.Mob.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Mob\obj\Debug\AH.Mob.pdb

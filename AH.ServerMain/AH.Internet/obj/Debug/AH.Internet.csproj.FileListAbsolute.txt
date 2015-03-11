@@ -100,3 +100,7 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debu
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\AH.MobManager.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\AH.Mob.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\AH.MobManager.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Internet\bin\Debug\AH.Mob.pdb

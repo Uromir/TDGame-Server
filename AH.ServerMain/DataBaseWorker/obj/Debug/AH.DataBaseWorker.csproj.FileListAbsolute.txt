@@ -27,3 +27,17 @@ C:\Users\Юрий\Desktop\AH.ServerMain\DataBaseWorker\bin\Debug\zh-CN\Npgsql.re
 C:\Users\Юрий\Desktop\AH.ServerMain\DataBaseWorker\obj\Debug\AH.DataBaseWorker.csprojResolveAssemblyReference.cache
 C:\Users\Юрий\Desktop\AH.ServerMain\DataBaseWorker\obj\Debug\DataBaseWorker.dll
 C:\Users\Юрий\Desktop\AH.ServerMain\DataBaseWorker\obj\Debug\DataBaseWorker.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\DataBaseWorker.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\DataBaseWorker.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\Mono.Security.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\Npgsql.pdb
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\Npgsql.xml
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\obj\Debug\AH.DataBaseWorker.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\obj\Debug\DataBaseWorker.dll
+C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\DataBaseWorker\obj\Debug\DataBaseWorker.pdb

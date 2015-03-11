@@ -6,6 +6,7 @@ using System.ServiceModel.Description;
 using AH.WorkToAccount;
 using SharpDX;
 using AH.Core;
+using System.Threading;
 
 namespace AH.Internet
 {
@@ -19,6 +20,10 @@ namespace AH.Internet
             string command;
             AdressatManagerThisServer = new AdressatManager();
             AllAccountToThisServer = new AccountManager();
+            MainCoreServer = new CoreServer();
+
+            // заводим поток для обновления игровой логики
+            Thread ThreadForCoreUpdate = new Thread(StartGameLogic);
             
             using (System.ServiceModel.ServiceHost host = new System.ServiceModel.ServiceHost(typeof(Session)))
             {
@@ -34,14 +39,35 @@ namespace AH.Internet
                 {
                     command = Console.ReadLine();
 
-                    if (command == "print")
+                    switch(command)
                     {
-                        MessageToAll("print", null);
+                        case "print":
+                            MessageToAll("print", null);
+                            break;
+
+                        case "start logic":
+                            ThreadForCoreUpdate.Start();
+                            break;
+
+                        case "lala":
+                            Console.WriteLine("sdfsdfsd");
+                            break;
                     }
                 }
 
                 host.Close();
             }
+        }
+
+        public static void StartGameLogic()
+        {
+            AutoResetEvent AutoEvent = new AutoResetEvent(false);
+
+            MainCoreServer.a = 10;
+
+            TimerCallback tcb = MainCoreServer.Update;
+
+            Timer StateTimer = new Timer(tcb, AutoEvent, 0, 10);
         }
 
         // отправка сообщения для всех
