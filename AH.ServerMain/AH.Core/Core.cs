@@ -14,8 +14,6 @@ namespace AH.Core
         AH.MobManager.MobManager MainMobManager;
         AH.BulletManager.BulletManager MainBulletManager;
 
-        public int a;
-
         public CoreServer()
         {
             this.MainHeroManager = new AH.HeroManager.HeroManager();
@@ -43,7 +41,29 @@ namespace AH.Core
 
             MainHeroManager.Update();
             MainMobManager.Update();
+
+            for (int i = 0; i < MainTowerManager.AllTower.Count(); i++)
+            {
+                int ShotCount = 0;
+                if ((MainTowerManager.AllTower[i].TimeLastShot - DateTime.Now).Milliseconds > 1000 / MainTowerManager.AllTower[i].AttackSpeed)
+                {
+                    for (int j = 0; j < MainMobManager.AllMobs.Count() && ShotCount < MainTowerManager.AllTower[i].TargetCount; j++)
+                    {
+                        // здесь находим первого попавшегося моба в радиусе, хотя правильно брать ближайшего
+                        if ((MainTowerManager.AllTower[i].Position - MainMobManager.AllMobs[j].Position).Length() < MainTowerManager.AllTower[i].Radius)
+                        {
+                            MainBulletManager.CreateBullet(MainMobManager.AllMobs[j], MainTowerManager.AllTower[i]);
+                            ShotCount++;
+                            MainTowerManager.AllTower[i].TimeLastShot = DateTime.Now;
+                        }
+                    }
+                }
+            }
+
             MainBulletManager.Update();
+
+            // исключительно для теста
+            Console.WriteLine("{0}", DateTime.Now.ToString());
         }
     }
 }

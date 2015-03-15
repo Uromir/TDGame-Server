@@ -14,3 +14,17 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\bin\Debug\AH.O
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\AH.Tower.csprojResolveAssemblyReference.cache
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\Tower.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\Tower\obj\Debug\Tower.pdb
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\Tower.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\Tower.pdb
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\AH.Object.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\AH.Object.pdb
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\AH.Tower.csprojResolveAssemblyReference.cache
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\Tower.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\Tower.pdb
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\Tower.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\Tower.pdb
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\AH.Object.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\bin\Debug\AH.Object.pdb
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\AH.Tower.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\Tower.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\Tower\obj\Debug\Tower.pdb

@@ -10,3 +10,15 @@ C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Object\bin\Debug\
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
 C:\Users\Юрий\TDGame-Server\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\AH.Object.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\AH.Object.pdb
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\SharpDX.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
+Z:\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\AH.Object.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\AH.Object.pdb
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\bin\Debug\SharpDX.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
+C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb

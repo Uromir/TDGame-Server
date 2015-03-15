@@ -63,8 +63,6 @@ namespace AH.Internet
         {
             AutoResetEvent AutoEvent = new AutoResetEvent(false);
 
-            MainCoreServer.a = 10;
-
             TimerCallback tcb = MainCoreServer.Update;
 
             Timer StateTimer = new Timer(tcb, AutoEvent, 0, 10);

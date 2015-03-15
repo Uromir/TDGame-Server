@@ -20,18 +20,26 @@ namespace AH.BulletManager
             for (int i = 0; i < AllBullet.Count(); i++)
             {
                 AH.Bullet.Bullet ActualBullet = AllBullet[i];
+                ActualBullet.Direction = ActualBullet.Target.Position;
                 ActualBullet.Move();
                 // это невозможно так как даблы, но правильно сделаю чуть позже
                 if (ActualBullet.Position == ActualBullet.Target.Position)
                 {
                     ActualBullet.Target.CauseDamage(ActualBullet.Damage);
+                    AllBullet.Remove(ActualBullet);
                 }
             }
         }
 
+        public void CreateBullet(AH.Mob.Mob Target, AH.Tower.Tower Sender)
+        {
+            AH.Bullet.Bullet NewBullet = new AH.Bullet.Bullet(Target, Sender);
+            AllBullet.Add(NewBullet);
+        }
+
         public void Update()
         {
-
+            MoveAllBullets();
         }
     }
 }

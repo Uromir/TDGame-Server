@@ -11,6 +11,8 @@ namespace AH.Hero
     {
         public double HP { set; get; }
         public int Id { set; get; }
+        public int Gold { set; get; }
+        public int Wood { set; get; }
 
         public Hero()
         {

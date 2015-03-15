@@ -24,9 +24,26 @@ namespace AH.MobManager
             }
         }
 
+        public void ChangingStatusAllMobs()
+        {
+            for (int i = 0; i < AllMobs.Count(); i++)
+            {
+                if (AllMobs[i].ChangeStatus())
+                    AllMobs.Remove(AllMobs[i]);
+            }
+        }
+
+        public void CreateNewMobs()
+        {
+            AH.Mob.Mob NewMob = new AH.Mob.Mob(AllMobs.Count() + 1);
+            AllMobs.Add(NewMob);
+        }
+
         public void Update()
         {
+            CreateNewMobs();
             MoveAllMobs();
+            ChangingStatusAllMobs();
         }
     }
 }

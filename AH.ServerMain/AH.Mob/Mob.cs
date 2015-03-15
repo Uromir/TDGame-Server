@@ -23,5 +23,13 @@ namespace AH.Mob
         {
             ActualDamage += Damage;
         }
+
+        // Изменение характеристик мобов (заморозка и т.д.), а так же возвращает тру если он умер
+        public bool ChangeStatus()
+        {
+            if (HP <= 0)
+                return true;
+            return false;
+        }
     }
 }
