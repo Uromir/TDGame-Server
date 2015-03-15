@@ -36,3 +36,12 @@ C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.dll
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.HeroManager.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.HeroManager.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.Hero.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.Object.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.Hero.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\bin\Debug\AH.Object.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.HeroManager\obj\Debug\AH.HeroManager.pdb

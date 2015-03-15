@@ -22,6 +22,126 @@ namespace AH.Core
             this.MainBulletManager = new BulletManager.BulletManager();
         }
 
+        public double[] GetXCoordHero()
+        {
+            int n = MainHeroManager.AllHero.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainHeroManager.AllHero[i].Position.X;
+            }
+            return result;
+        }
+
+        public double[] GetYCoordHero()
+        {
+            int n = MainHeroManager.AllHero.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainHeroManager.AllHero[i].Position.Y;
+            }
+            return result;
+        }
+
+        public int[] GetIdHero()
+        {
+            int n = MainHeroManager.AllHero.Count();
+            int[] result = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainHeroManager.AllHero[i].Id; ;
+            }
+            return result;
+        }
+
+        public double[] GetXCoordMobs()
+        {
+            int n = MainMobManager.AllMobs.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainMobManager.AllMobs[i].Position.X;
+            }
+            return result;
+        }
+
+        public double[] GetYCoordMobs()
+        {
+            int n = MainMobManager.AllMobs.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainMobManager.AllMobs[i].Position.Y;
+            }
+            return result;
+        }
+
+        public int[] GetIdMobs()
+        {
+            int n = MainMobManager.AllMobs.Count();
+            int[] result = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainMobManager.AllMobs[i].Id;
+            }
+            return result;
+        }
+
+        public double[] GetHpMobs()
+        {
+            int n = MainMobManager.AllMobs.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainMobManager.AllMobs[i].HP;
+            }
+            return result;
+        }
+
+        public double[] GetXCoordBullets()
+        {
+            int n = MainBulletManager.AllBullet.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainBulletManager.AllBullet[i].Position.X;
+            }
+            return result;
+        }
+
+        public double[] GetYCoordBullets()
+        {
+            int n = MainBulletManager.AllBullet.Count();
+            double[] result = new double[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainBulletManager.AllBullet[i].Position.Y;
+            }
+            return result;
+        }
+
+        public int[] GetIdBullets()
+        {
+            int n = MainBulletManager.AllBullet.Count();
+            int[] result = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                result[i] = MainBulletManager.AllBullet[i].Id;
+            }
+            return result;
+        }
+
         // устанавливаем героя направление движения
         public void SetDirectionPlayer(Vector3 NewDirection, int Id)
         {
@@ -35,10 +155,8 @@ namespace AH.Core
         }
 
         // функция обновляющая игровую логику и ведущая все вычисления
-        public void Update(System.Object StateInfo)
+        public void Update()
         {
-            AutoResetEvent autoEvent = (AutoResetEvent)StateInfo;
-
             MainHeroManager.Update();
             MainMobManager.Update();
 

@@ -9,7 +9,7 @@ namespace AH.HeroManager
 {
     public class HeroManager
     {
-        List<AH.Hero.Hero> AllHero;
+        public List<AH.Hero.Hero> AllHero;
 
         public HeroManager()
         {

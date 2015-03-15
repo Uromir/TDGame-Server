@@ -63,9 +63,30 @@ namespace AH.Internet
         {
             AutoResetEvent AutoEvent = new AutoResetEvent(false);
 
-            TimerCallback tcb = MainCoreServer.Update;
+            TimerCallback tcb = UpdateServer;
 
             Timer StateTimer = new Timer(tcb, AutoEvent, 0, 10);
+        }
+
+        public static void UpdateServer(System.Object StateInfo)
+        {
+            AutoResetEvent autoEvent = (AutoResetEvent)StateInfo;
+
+            MainCoreServer.Update();
+            for (int i = 0; i < AdressatManagerThisServer.AllAdressat.Count(); i++)
+            {
+                var ActualAdresat = AdressatManagerThisServer.AllAdressat[i];
+                ActualAdresat.CollbackThisPlayer.MoveAllHeroes(MainCoreServer.GetXCoordHero(), 
+                    MainCoreServer.GetYCoordHero(), 
+                    MainCoreServer.GetIdHero());
+                ActualAdresat.CollbackThisPlayer.MoveAllMobs(MainCoreServer.GetXCoordMobs(),
+                    MainCoreServer.GetYCoordMobs(), 
+                    MainCoreServer.GetIdMobs(), 
+                    MainCoreServer.GetHpMobs());
+                ActualAdresat.CollbackThisPlayer.MoveAllBullets(MainCoreServer.GetXCoordBullets(),
+                    MainCoreServer.GetYCoordBullets(),
+                    MainCoreServer.GetIdBullets());
+            }
         }
 
         // отправка сообщения для всех

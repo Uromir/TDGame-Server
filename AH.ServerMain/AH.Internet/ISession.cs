@@ -49,5 +49,16 @@ namespace AH.Internet
         [OperationContract(IsOneWay = true)]
         // отправить сообщение пользователю от другого пользователя
         void MessageToMe(string message, string sender);
+
+        [OperationContract(IsOneWay = true)]
+        // функция передвижения всех героев, сервер отправляет клиенту, массивы со всеми данными про всех героев
+        void MoveAllHeroes(double[] x, double[] y, int[] id);
+        [OperationContract(IsOneWay = true)]
+        // функция передвижения всех героев, сервер отправляет клиенту, массивы со всеми данными про всех героев
+        void MoveAllMobs(double[] x, double[] y, int[] id, double[] hp);
+        [OperationContract(IsOneWay = true)]
+        // функция передвижения всех героев, сервер отправляет клиенту, массивы со всеми данными про всех героев
+        void MoveAllBullets(double[] x, double[] y, int[] id);
+
     }
 }
