@@ -32,3 +32,14 @@ C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.dll
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Bullet.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Bullet.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Mob.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Object.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\Tower.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Mob.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Object.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\Tower.pdb
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.dll
+C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.pdb

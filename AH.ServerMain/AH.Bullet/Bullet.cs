@@ -11,6 +11,7 @@ namespace AH.Bullet
         // тут обязательно должны быть указатели на цель и отправителя иначе ничего работать не будет
         public AH.Mob.Mob Target { set; get; }
         public AH.Tower.Tower Sender { set; get; }
+        public int Id { set; get; }
 
         public double Damage { set; get; }
 

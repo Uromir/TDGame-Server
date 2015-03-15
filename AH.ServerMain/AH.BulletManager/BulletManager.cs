@@ -8,7 +8,7 @@ namespace AH.BulletManager
 {
     public class BulletManager
     {
-        List<AH.Bullet.Bullet> AllBullet;
+        public List<AH.Bullet.Bullet> AllBullet;
 
         public BulletManager()
         {
