@@ -43,3 +43,14 @@ C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\Tow
 C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.dll
 C:\Users\VAIO\Desktop\TDGame\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Bullet.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Bullet.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Mob.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\Tower.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Mob.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\bin\Debug\Tower.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Bullet\obj\Debug\AH.Bullet.pdb

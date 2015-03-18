@@ -22,3 +22,9 @@ C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\bin\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\bin\Debug\SharpDX.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Object\obj\Debug\AH.Object.pdb

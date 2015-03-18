@@ -30,3 +30,11 @@ C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.dll
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\bin\Debug\AH.Hero.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\bin\Debug\AH.Hero.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\bin\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\bin\Debug\SharpDX.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.Hero\obj\Debug\AH.Hero.pdb

@@ -26,3 +26,12 @@ C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.csprojResolveAssemblyReference.cache
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.dll
 C:\Users\VAIO\Downloads\TDGame-Server-master\TDGame-Server-master\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\AH.TowerManager.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\AH.TowerManager.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\AH.Object.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\Tower.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\AH.Object.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\bin\Debug\Tower.pdb
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.dll
+C:\Users\Юрий\Desktop\сервер\TDGame-Server\AH.ServerMain\AH.TowerManager\obj\Debug\AH.TowerManager.pdb

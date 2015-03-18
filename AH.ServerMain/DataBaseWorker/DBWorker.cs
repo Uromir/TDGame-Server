@@ -20,7 +20,7 @@ namespace AH.DataBaseWorker
             "Password=postgres;Database=MainServer");
 
             // подключаемся к бд
-            // MainDBConnection.Open();
+            MainDBConnection.Open();
         }
 
         // добавить новый аккаунт в базу данных
